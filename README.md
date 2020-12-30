@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timching&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timching&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=timching&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
