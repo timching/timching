@@ -1,4 +1,4 @@
-WIP, [TL;DR](https://tldr.timching.site/)
+<!-- WIP, [TL;DR](https://tldr.timching.site/) -->
 
 <!--
 **timching/timching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
