@@ -21,7 +21,12 @@ img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?use
 img align="right" src="https://github-readme-stats.vercel.app/api?username=timching&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
 -->
 
-<h2 align="center">Languages and Tools:</h3>
+<h1 align="center">😺 Hi! 😺</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timching/timching/main/catHi.gif" alt="CodersRank skills chart"/>
+</p>
+
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://profile.codersrank.io/user/timching" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=timching&width=820&bg=white&branding=false" alt="CodersRank skills chart"/>
