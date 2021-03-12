@@ -26,7 +26,7 @@ img align="right" src="https://github-readme-stats.vercel.app/api?username=timch
   <img src="https://raw.githubusercontent.com/timching/timching/main/catHi.gif" alt="CodersRank skills chart"/>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center"> Tech Skills</h2>
 <p align="center">
   <a href="https://profile.codersrank.io/user/timching" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=timching&width=820&bg=white&branding=false" alt="CodersRank skills chart"/>
