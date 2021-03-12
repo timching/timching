@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timching&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+
+img align="right" src="https://github-readme-stats.vercel.app/api?username=timching&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
 -->
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timching&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=timching&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<h2 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://profile.codersrank.io/user/timching" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=timching&width=820&bg=white&branding=false" alt="CodersRank skills chart"/>
+  </a>
+</p>
