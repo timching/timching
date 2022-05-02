@@ -24,13 +24,17 @@ icons from
 https://simpleicons.org/
 -->
 
-<h1 align="center">😺 Hi! 😺</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/timching/timching/main/catHi.gif" alt="CodersRank skills chart"/>
 </p>
 
+<div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/timching/timching?logo=GitHub&label=github%20visits&color=ddd&logoColor=ffffff)](https://badges.pufler.dev) 
+  <a href="https://badges.pufler.dev">![Visits Badge](https://badges.pufler.dev/visits/timching/timching?logo=GitHub&label=github%20visits&color=ddd&logoColor=ffffff)</a>
+
+</div>
+
+<!--
 ![CPU](https://img.shields.io/badge/AMD-3700x-292e33?logo=AMD&logoColor=ffffff)
 ![OS](https://img.shields.io/badge/macOS-Big%20Sur-292e33?logo=apple&logoColor=ffffff)
 ![OS](https://img.shields.io/badge/Ubuntu-18-292e33?logo=Ubuntu&logoColor=ffffff)
@@ -47,13 +51,6 @@ https://simpleicons.org/
 ![Framework](https://img.shields.io/badge/Laravel-7-292e33?logo=Laravel&logoColor=ffffff)
 ![Framework](https://img.shields.io/badge/Laravel-8-292e33?logo=Laravel&logoColor=ffffff)
 ![Framework](https://img.shields.io/badge/codeigniter-2-292e33?logo=Codeigniter&logoColor=ffffff)
-![Framework](https://img.shields.io/badge/codeigniter-3-292e33?logo=Codeigniter&logoColor=ffffff)
+![Framework](https://img.shields.io/badge/codeigniter-3-292e33?logo=Codeigniter&logoColor=ffffff) -->
 
 <!-- TBC, that's fun, wanna place badges as much as I can lolll -->
-
-<h2 align="center"> Tech Skills</h2>
-<p align="center">
-  <a href="https://profile.codersrank.io/user/timching" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=timching&width=820&bg=white&branding=false" alt="CodersRank skills chart"/>
-  </a>
-</p>
