@@ -63,6 +63,8 @@ Passionate **Full-Stack Developer** with deep expertise in modern web technologi
 #### Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![LoopBack](https://img.shields.io/badge/-LoopBack-3F5FBF?style=flat&logo=loopback&logoColor=white)
+![FeathersJS](https://img.shields.io/badge/-FeathersJS-222222?style=flat&logo=feathersjs&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 
 #### DevOps & Cloud
@@ -76,15 +78,41 @@ Passionate **Full-Stack Developer** with deep expertise in modern web technologi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
+#### Payment & Integration
+![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![SendGrid](https://img.shields.io/badge/-SendGrid-0099CC?style=flat&logo=sendgrid&logoColor=white)
+
 #### Search & Data
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+#### IoT & Hardware
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![GPIO](https://img.shields.io/badge/-GPIO_Control-4B8BBE?style=flat&logo=python&logoColor=white)
+
+#### Animation & UI
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+
+#### Testing Frameworks
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-366488?style=flat&logo=php&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 
 ---
 
 ### 📚 Working Knowledge
 
+#### Mobile Development
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+
+#### Real-time & Communication
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Pusher](https://img.shields.io/badge/-Pusher-300D4F?style=flat&logo=pusher&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-4B8BBE?style=flat&logo=websocket&logoColor=white)
+
+#### DevOps & Infrastructure
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
@@ -106,9 +134,12 @@ Passionate **Full-Stack Developer** with deep expertise in modern web technologi
 
 - 🔍 **Symfony 7**: Exploring new features like improved performance and better DX
 - 🎨 **Angular 17**: Implementing signals and new control flow syntax
-- 🐳 **Container Orchestration**: Deep diving into Kubernetes and container patterns
+- 🤖 **IoT Automation**: Building Raspberry Pi-based systems with hardware control
+- 💳 **Payment Integration**: Advanced e-commerce solutions with PayPal REST API and Stripe
+- 📱 **Mobile Development**: Cross-platform apps with React Native and Expo framework
+- 🎭 **Interactive UI**: Creating engaging animations with GSAP and scroll-based effects
+- 🧪 **Testing Excellence**: Comprehensive test suites with PHPUnit and Cypress
 - 🦀 **Rust**: Learning systems programming for performance-critical applications
-- 🔧 **Developer Tools**: Building custom tooling to improve team productivity
 
 ---
 
