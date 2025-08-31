@@ -7,9 +7,6 @@
 
 <div align="center">
 
-[![Visits](https://badges.pufler.dev/visits/timching/timching?logo=GitHub&label=visits&color=336699&logoColor=white)](https://github.com/timching)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/timchingy)
-
 </div>
 
 ---
